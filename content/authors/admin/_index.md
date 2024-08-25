@@ -68,8 +68,8 @@ work:
     company_name: Neuroscience of Attention & Perception Laboratory, Princeton University
     company_url: 'https://napl.scholar.princeton.edu/'
     company_logo: 'icons/Princeton_seal.svg'
-    date_start: 2024-06
-    date_end: 2024-08
+    date_start: 2024-06-03
+    date_end: 2024-08-02 
     summary: |
       - Participated in the project conceptualization and execution through collaboration with a Ph.D. student to understand the rhythmic process of endogenous attention under spatial uncertainty.
       - Analyzed brain activity data for spatial attention tasks by employing FFT and EMD to find endogenous attention rhythms in the theta band (4-8 Hz).
@@ -80,7 +80,7 @@ work:
     company_name: Dilks Lab, Emory University
     company_url: 'https://secure.web.emory.edu/psychology/dilks/main.php'
     company_logo: 'icons/emory-university.svg'
-    date_start: 2023-08
+    date_start: 2023-08-25
     date_end: ''
     summary: |
       - Shape Representation Across Different Domains: Object Versus Place Processing
@@ -95,8 +95,8 @@ work:
     company_name: Hamann Cognitive Neuroscience Lab, Emory University
     company_url: 'https://hamann.weebly.com/'
     company_logo: 'icons/emory-university.svg'
-    date_start: 2022-04
-    date_end: 2023-05
+    date_start: 2022-08-25
+    date_end: 2023-05-24
     summary: |
       - Participated in the development of experimental protocols aimed at investigating cued memory and emotional sound stimuli in human subjects.
       - Recruited and interacted with over 80 participants and utilized Excel for statistical data analysis to evaluate the potential memory bias towards positive and negative stimuli.
@@ -106,7 +106,7 @@ work:
     company_name: Sober Lab, Emory University
     company_url: 'https://sober-lab.org/'
     company_logo: 'icons/emory-university.svg'
-    date_start: 2022-01
+    date_start: 2022-01-20
     date_end: ''
     summary: |
       - Revealing the Role of Area-X Neurons in Encoding Variable Sequence Control in Bengalese Finch Song

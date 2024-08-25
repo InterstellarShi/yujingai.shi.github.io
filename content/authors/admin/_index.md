@@ -44,8 +44,8 @@ interests:
 education:
   - area: Psychology (B.S.), Computer Science (B.A.)
     institution: Emory University 
-    date_start: 2021
-    date_end: 2025
+    date_start: 2021-08-25
+    date_end: 2025-05-15
     summary: |
       Courses Included:
       - CS 334: Machine Learning
@@ -67,7 +67,7 @@ work:
   - position: Summer Undergraduate Researcher
     company_name: Neuroscience of Attention & Perception Laboratory, Princeton University
     company_url: 'https://napl.scholar.princeton.edu/'
-    company_logo: 'icons/Princeton_seal.svg'
+    company_logo: 'assets/media/icons/Princeton_seal.svg'
     date_start: 2024-06-03
     date_end: 2024-08-02 
     summary: |
@@ -79,7 +79,7 @@ work:
   - position: Undergraduate Researcher 
     company_name: Dilks Lab, Emory University
     company_url: 'https://secure.web.emory.edu/psychology/dilks/main.php'
-    company_logo: 'icons/emory-university.svg'
+    company_logo: 'assets/media/icons/emory-university.svg'
     date_start: 2023-08-25
     date_end: ''
     summary: |
@@ -94,7 +94,7 @@ work:
   - position: Undergraduate Researcher 
     company_name: Hamann Cognitive Neuroscience Lab, Emory University
     company_url: 'https://hamann.weebly.com/'
-    company_logo: 'icons/emory-university.svg'
+    company_logo: 'assets/media/icons/emory-university.svg'
     date_start: 2022-08-25
     date_end: 2023-05-24
     summary: |
@@ -105,7 +105,7 @@ work:
   - position: Undergraduate Researcher 
     company_name: Sober Lab, Emory University
     company_url: 'https://sober-lab.org/'
-    company_logo: 'icons/emory-university.svg'
+    company_logo: 'assets/media/icons/emory-university.svg'
     date_start: 2022-01-20
     date_end: ''
     summary: |
@@ -127,11 +127,11 @@ skills:
       - name: Java
         description: ''
         percent: 80
-        icon: 'icons/java-svgrepo-com.svg'
+        icon: 'assets/media/icons/java-svgrepo-com.svg'
       - name: Matlab
         description: ''
         percent: 100
-        icon: 'icons/matlab-svgrepo-com.svg'
+        icon: 'assets/media/icons/matlab-svgrepo-com.svg'
       - name: R
         description: ''
         percent: 40
@@ -152,19 +152,19 @@ skills:
       - name: fMRI
         description: ''
         percent: 60
-        icon: 'icons/brain-solid.svg'
+        icon: 'assets/media/icons/brain-solid.svg'
       - name: Eye-tracking
         description: ''
         percent: 100
-        icon: 'icons/eye-solid.svg'
+        icon: 'assets/media/icons/eye-solid.svg'
       - name: Histology
         description: ''
         percent: 80
-        icon: 'icons/cute-bird-svgrepo-com.svg'
+        icon: 'assets/media/icons/cute-bird-svgrepo-com.svg'
       - name: Soldering
         description: ''
         percent: 80
-        icon: 'icons/solder-svgrepo-com.svg'
+        icon: 'assets/media/icons/solder-svgrepo-com.svg'
 
 languages:
   - name: English
@@ -178,33 +178,34 @@ languages:
 awards:
   - title: Member of Psi Chi International Honor Society in Psychology
     url: https://www.psichi.org/
-    date: '2023-04'
+    date: '2023-04-01'
     awarder: Psi Chi Honor Society
-    icon: 'icons/Psichi.svg'
+    icon: 'assets/media/icons/Psichi.svg'
     summary: |
       Being selected into the honor society due to academic excellence in psychology study.
 
   - title: Shenoy Undergraduate Research Fellowship in Neuroscience (SURFiN), Simons Foundation
     url: https://www.simonsfoundation.org/grant/shenoy-undergraduate-research-fellowship-in-neuroscience-surfin/
-    date: '2023-07'
+    date: '2023-07-01'
     awarder: Simons Foundation
-    icon: 'icons/SimonsFoundation.svg'
+    icon: 'assets/media/icons/SimonsFoundation.svg'
     summary: |
       Awarded a $7,500 fellowship grant to conduct a year-long independent research project on the sequence variability of Bengalese Finches. Successfully presented my research findings at a research symposium, with support from the Simons Foundation.
 
   - title: Dean’s List, Emory University
     url: https://www.emory.edu/home/index.html
-    date: 'Fall 2022 - Spring 2023'
+    date: '2023-05-25'
     awarder: Emory University
-    icon: 'icons/emory-university.svg'
+    icon: 'assets/media/icons/emory-university.svg'
+
     summary: |
       Awarded for academic excellence (GPA: 4.0/4.0).
 
   - title: Princeton Neuroscience Institute-Conte Center Summer 2024 Internship
     url: https://conte.thalamus.princeton.edu/
-    date: '2024-06'
+    date: '2024-06-02'
     awarder: Princeton University
-    icon: 'icons/Princeton_seal.svg'
+    icon: 'assets/media/icons/Princeton_seal.svg'
     summary: |
       Awarded a $6,000 fellowship to conduct a summer research project on endogenous attention and the rhythmic theory of attention. Successfully presented my work at the summer undergraduate symposium, and the abstract has been accepted for presentation at the Society for Neuroscience 2024 Annual Meeting.
 ---
